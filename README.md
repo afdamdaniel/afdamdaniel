@@ -76,12 +76,37 @@ Currently learning **Large Language Models (LLMs), Generative AI, and AI-powered
 
 ### 📊 GitHub Statistics
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=afdamdaniel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afdamdaniel&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="165" />
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=afdamdaniel&show_icons=true&theme=tokyonight&hide_border=true"
+          alt="GitHub Stats"
+          width="400"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=afdamdaniel&layout=compact&theme=tokyonight&hide_border=true"
+          alt="Top Languages"
+          width="350"
+        />
+      </td>
+    </tr>
+  </table>
 
-<img src="https://streak-stats.demolab.com?user=afdamdaniel&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=afdamdaniel&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="500"
+  />
+
+</div>
+
 
 
 <picture>
