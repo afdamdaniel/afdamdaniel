@@ -83,7 +83,7 @@ Currently learning **Large Language Models (LLMs), Generative AI, and AI-powered
 
 <img src="https://streak-stats.demolab.com?user=afdamdaniel&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=afdamdaniel&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+[![GitHub Contributions](https://ghchart.rshah.org/70a5fd/afdamdaniel)](https://github.com/afdamdaniel)
 
 </div>
 
