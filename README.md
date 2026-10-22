@@ -83,7 +83,16 @@ Currently learning **Large Language Models (LLMs), Generative AI, and AI-powered
 
 <img src="https://streak-stats.demolab.com?user=afdamdaniel&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-[![GitHub Contributions](https://ghchart.rshah.org/70a5fd/afdamdaniel)](https://github.com/afdamdaniel)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/afdamdaniel/afdamdaniel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/afdamdaniel/afdamdaniel/output/github-snake.svg" />
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/afdamdaniel/afdamdaniel/output/github-snake.svg" />
+</picture>
+
 
 </div>
 
@@ -96,7 +105,7 @@ My goal is to pursue opportunities in **Data Science, Machine Learning, or Artif
 ### 📫 Let's Connect!
 
 - 💻 GitHub: [github.com/afdamdaniel](https://github.com/afdamdaniel)
-- 💼 LinkedIn [LinkedIn]()
+- 💼 LinkedIn: [LinkedIn]()
 
 ---
 
