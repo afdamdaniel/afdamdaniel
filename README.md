@@ -74,7 +74,6 @@ Currently learning **Large Language Models (LLMs), Generative AI, and AI-powered
 - ⚙️ Model deployment and software architecture
 - 🌐 Python web application development
 
-### 📊 GitHub Statistics
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
