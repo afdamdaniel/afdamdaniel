@@ -96,6 +96,7 @@ My goal is to pursue opportunities in **Data Science, Machine Learning, or Artif
 ### 📫 Let's Connect!
 
 - 💻 GitHub: [github.com/afdamdaniel](https://github.com/afdamdaniel)
+- 💼 LinkedIn [LinkedIn]()
 
 ---
 
