@@ -64,9 +64,11 @@ Currently learning **Large Language Models (LLMs), Generative AI, and AI-powered
 - Analyzed telecommunications churn with feature engineering and preprocessing.
 - Compared classifiers using precision, recall, accuracy, and F1-score.
 
-**🏠 House Price Prediction**
-- Applied missing-value imputation, preprocessing, and feature engineering.
-- Explored regression and hyperparameter tuning.
+**🤖 [GPT-2 Text Generation](https://github.com/afdamdaniel/gpt2-text-generation)**
+- Built a text-generation notebook using pretrained GPT-2 with Hugging Face Transformers and PyTorch.
+- Generated two text continuations per prompt using configurable sampling parameters.
+- Implemented automatic GPU detection with CPU fallback for model inference.
+
 
 ### 🌱 Currently Learning
 
