@@ -60,9 +60,12 @@ Currently learning **Large Language Models (LLMs), Generative AI, and AI-powered
 - Explored transaction data and built a classification workflow.
 - Developed an interactive Streamlit prediction interface.
 
-**📉 Customer Churn Prediction**
-- Analyzed telecommunications churn with feature engineering and preprocessing.
-- Compared classifiers using precision, recall, accuracy, and F1-score.
+
+**📉 [Customer Churn Prediction](https://github.com/afdamdaniel/telco-customer-churn-prediction)**
+- Developed end-to-end ML pipelines using Scikit-learn's `Pipeline` and `ColumnTransformer` for preprocessing and model training.
+- Compared Logistic Regression, Balanced Random Forest, and XGBoost using accuracy, precision, recall, and F1-score.
+- Achieved **75.7% recall** with Logistic Regression and **78.6% accuracy** with XGBoost.
+
 
 **🤖 [GPT-2 Text Generation](https://github.com/afdamdaniel/gpt2-text-generation)**
 - Built a text-generation notebook using pretrained GPT-2 with Hugging Face Transformers and PyTorch.
