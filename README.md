@@ -75,10 +75,12 @@ Currently learning **Large Language Models (LLMs), Generative AI, and AI-powered
 
 ### 🌱 Currently Learning
 
-- 🧠 Large Language Models and Generative AI
-- 🔗 LangChain and AI Agents
-- ⚙️ Model deployment and software architecture
-- 🌐 Python web application development
+- 🧠 Deep Learning with PyTorch and TensorFlow
+- 🤖 Large Language Models (LLMs) and Generative AI
+- 🔗 LangChain and AI Agent Development
+- ⚙️ Model Deployment and Software Architecture
+- 🌐 Python Web Application Development
+
 
 
 <h2 align="center">📊 GitHub Statistics</h2>
