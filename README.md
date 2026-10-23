@@ -51,7 +51,7 @@ Currently learning **Large Language Models (LLMs), Generative AI, and AI-powered
 
 ### 📂 Featured Projects
 
-**🫀 Cardiovascular Disease Prediction**
+**🫀 [Cardiovascular Disease Prediction](https://github.com/afdamdaniel/cardiovascular-ai-app)**
 - Evaluated Logistic Regression, Random Forest, and XGBoost for disease prediction.
 - Focused on classification metrics and recall.
 - Exploring LLM integration for user-friendly explanations.
