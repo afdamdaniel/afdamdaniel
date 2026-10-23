@@ -12,7 +12,7 @@
 
 I'm a final-year undergraduate interested in **Data Science, Machine Learning, Artificial Intelligence, and Applied Mathematics**. I enjoy exploring data, comparing predictive models, and building Python applications.
 
-Currently learning **Large Language Models (LLMs), Generative AI, and AI-powered application development**.
+Currently learning **Deep Learning with PyTorch and TensorFlow, Large Language Models (LLMs), Generative AI, and AI-powered application development**.
 
 ---
 
