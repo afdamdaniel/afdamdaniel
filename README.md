@@ -56,7 +56,7 @@ Currently learning **Deep Learning with PyTorch and TensorFlow, Large Language M
 - Focused on classification metrics and recall.
 - Exploring LLM integration for user-friendly explanations.
 
-**💳 Credit Card Fraud Detection**
+**💳 [Credit Card Fraud Detection](https://github.com/afdamdaniel/fraudguard-credit-card-detection)**
 - Explored transaction data and built a classification workflow.
 - Developed an interactive Streamlit prediction interface.
 
